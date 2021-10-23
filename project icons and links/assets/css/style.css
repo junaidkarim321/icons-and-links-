@@ -1,0 +1,40 @@
+
+
+.icons{
+  border: 2px solid red;
+  width: 60%;
+  margin-left:330px ;
+  padding: 30px 79px;
+  margin-top:  30px ;
+  height: 720px;
+ 
+}
+.icons i{
+  border: 2px solid red;
+  /* margin:10px; */
+  font-size: 50px;
+  border-radius: 100%;
+  padding: 26px;
+  background: #000;
+ 
+}
+a {
+  font-size: 18px;
+  display: inline-block;
+  background: #373737;
+  color: #fff;
+  border: 2px solid red;
+  /* padding: 10px; */
+  line-height: 1;
+  padding: 20px 9px;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+
+}
+.firstrow{
+  margin-bottom: 20px
+}
+
